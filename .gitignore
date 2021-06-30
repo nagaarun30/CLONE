@@ -1,0 +1,25 @@
+
+google-2.0/components/Avatar.js
+google-2.0/components/Footer.js
+google-2.0/components/Header.js
+google-2.0/components/HeaderOption.js
+google-2.0/components/HeaderOptions.js
+google-2.0/components/PaginatinButtons.js
+google-2.0/components/SearchResults.js
+google-2.0/keys.js
+google-2.0/next.config.js
+google-2.0/package.json
+google-2.0/pages/_app.js
+google-2.0/pages/api/hello.js
+google-2.0/pages/index.js
+google-2.0/pages/search.js
+google-2.0/postcss.config.js
+google-2.0/public/favicon.ico
+google-2.0/public/Google Logo Animation_2_1.gif
+google-2.0/public/google_icon-icons.com_62736.ico
+google-2.0/public/vercel.svg
+google-2.0/README.md
+google-2.0/Response.js
+google-2.0/styles/globals.css
+google-2.0/tailwind.config.js
+google-2.0/yarn.lock
